@@ -1,0 +1,3 @@
+İlahi MP3 dosyalarını bu klasöre koyun.
+Dosya adı örneği: "01 - Yunus Emre - Dertli Dolap.mp3"
+(baştaki numara sırayı belirler, "Sanatçı - İlahi adı" şeklinde yazılırsa ikisi ayrı gösterilir)
